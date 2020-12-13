@@ -1,2 +1,3 @@
 # SwimWaterTemp_ETL
-ETL real-time unstructured data from generated from sensors in swimming places 🏊
+
+https://www.avoindata.fi/data/en_GB/dataset/veden-reaaliaikainen-lampotila-helsingin-uimarannoilla
